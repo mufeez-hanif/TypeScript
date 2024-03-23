@@ -1,6 +1,6 @@
 //Mufeez Here, it's 6th March today
 
-let favNum = 7;
+let favNum = 9;
 
 console.log("My favorite Number is " + favNum);
 
